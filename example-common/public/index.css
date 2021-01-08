@@ -1,0 +1,25 @@
+.link-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.link-item-container {
+  margin-right: 10px;
+}
+
+.sub-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+  background: rgb(245, 247, 250);
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.sub-content-container {
+  background: rgb(220, 252, 0);
+  margin-top: 10px;
+  padding: 10px;
+}
